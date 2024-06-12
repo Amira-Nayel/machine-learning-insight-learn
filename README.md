@@ -344,17 +344,19 @@ final_merged = pd.read_csv('data.csv')
 Note
 •	Adjust file paths as necessary.
 •	Ensure the data has the necessary columns as used in the script.
-Contact
-## Authors
-For any questions or issues, please contact [khaled]or[fatma] at [khaledeld2002@gmail.com].[Fatmaabdelwahed830@gmail.com]
 
-## Other Repositories
 
-## Back-End
-https://github.com/Amira-Nayel/backend-insight-learn
+## Contributors
 
-## Front-End
-https://github.com/Amira-Nayel/frontend-insight-learn
+- [khaledeld2002@gmail.com]
 
-## Server
-https://github.com/Amira-Nayel/infrastructure-as-code-
+- [Fatmaabdelwahed830@gmail.com]
+
+
+## You Can Access the rest of the project from here:
+[Front-End Repository](https://github.com/Amira-Nayel/frontend-insight-learn)
+
+[Back-End Repository](https://github.com/Amira-Nayel/backend-insight-learn)
+
+[Infrastructure as code Repository](https://github.com/Amira-Nayel/infrastructure-as-code-)
+
