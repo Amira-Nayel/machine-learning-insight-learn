@@ -345,5 +345,16 @@ Note
 •	Adjust file paths as necessary.
 •	Ensure the data has the necessary columns as used in the script.
 Contact
-## Contact
+## Authors
 For any questions or issues, please contact [khaled]or[fatma] at [khaledeld2002@gmail.com].[Fatmaabdelwahed830@gmail.com]
+
+## Other Repositories
+
+## Back-End
+https://github.com/Amira-Nayel/backend-insight-learn
+
+## Front-End
+https://github.com/Amira-Nayel/frontend-insight-learn
+
+## Server
+https://github.com/Amira-Nayel/infrastructure-as-code-
